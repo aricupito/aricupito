@@ -1,4 +1,4 @@
 - Hi, I’m Andrew Ricupito
 - I’m interested in data science internship opprotunities
 - I’m currently studying at American University for my Bachelor's degree in data science 
-- If looking f=to contact me, please email me at @adricupito@gmail.com
+- If looking to contact me, please email me at @adricupito@gmail.com
